@@ -1,6 +1,6 @@
 # ENGINEERING STARTING 2026
 Personal laboratory for ECE projects
-Hi! I'm V Jernick Samuel, an 18-year-old aspiring engineer based in TAMILNADU. I am a recent ISC Class 12 (PCMB) graduate with a focus on bridging the gap between theoretical physics and high-performance hardware.
+Hi! I'm V Jernick Samuel, an 18-year-old aspiring engineer based in INDIA. I am a recent ISC Class 12 (PCMB) graduate with a focus on bridging the gap between theoretical physics and high-performance hardware.
 
 This repository is my personal laboratory for documenting my projects in Electronics & Communication Engineering (ECE) and Aerospace Technology before I begin my undergraduate studies.
 

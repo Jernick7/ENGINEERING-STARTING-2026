@@ -6,5 +6,5 @@ status = input("Enter radar status (ON/OFF): ")
 
 if status.upper() == "ON":
     print("Radar is spinning... scanning for signals.")
-else:
+if status.upper()== "OFF" :
     print("Radar is in standby mode.")
