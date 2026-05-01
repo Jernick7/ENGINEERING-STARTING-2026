@@ -29,5 +29,6 @@ Money El Logic: Exploring business logic for my 3D-printed hardware venture.
 
 Radar Signal Processing: Real-time data handling from hardware sensors.
 
+Email: jernick77@gmail.com
+
 Email: jernicksamuel2008@gmail.com
-    jernick77@gmail.com
