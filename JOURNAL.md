@@ -6,7 +6,6 @@
 | **May 1, 2026** | **02:10 AM** | Resolved local file path locking issues and synced Antigravity workspace with GitHub Desktop. | **Completed** |
 | **May 1, 2026** | **02:21 AM** | Pushed initial commit including Python logic experiments and Arduino car parking system. | **Completed** |
 | **May 1, 2026** | **03:02 AM** | Optimized professional profile to reflect ECE focus, PCMB foundation, and high school achievements (State Athletics, JRC, F1 Fan Voice). | **Completed** |
-| **May 1, 2026** | **01:14 PM** | Established `JOURNAL.md` protocol for continuous engineering documentation. | **Completed** |
 | **May 1, 2026** | **01:14 PM** | Established `JOURNAL.md` protocol for continuous and professional engineering documentation. | **Completed** |
 | **May 1, 2026** | **01:49 PM** | Finalized branding strategy and refined AI-generated profile imagery for professional networking. | **Completed** |
 | **May 1, 2026** | **02:15 PM** | Developed `test2.py` radar failsafe logic, incorporating scanning loops and distance-based decision gates. | **Completed** |
@@ -21,10 +20,12 @@
 | **May 2, 2026** | **8:42 PM** | Hardcoded `.glow-input-container` CSS overrides to match premium Nvidia-style hardware aesthetics[cite: 2]. | **Completed** |
 | **May 2, 2026** | **9:30 PM** | Integrated `st.rerun()` logic into chat submission to ensure real-time terminal history updates[cite: 2]. | **Completed** |
 | **May 2, 2026** | **11:08 PM** | Conducted major "Brain Upgrade" by expanding `SYSTEM_INSTRUCTIONS` with VLSI and Aerospace context[cite: 1, 2]. | **Completed** |
-| **May 2, 2026** | **11:20 PM** | Identified caching conflict; implemented manual server reboot protocol via Streamlit Manage menu[cite: 2]. | **Completed** |
+| **May 2, 2026** | **11:20 P** | Identified caching conflict; implemented manual server reboot protocol via Streamlit Manage menu[cite: 2]. | **Completed** |
 | **May 3, 2026** | **12:10 AM** | Configured `smtplib` and Google App Passwords for secure backend intelligence routing[cite: 2]. | **Completed** |
 | **May 3, 2026** | **12:25 AM** | Deployed live "Leave a Trace" terminal, successfully routing encrypted visitor logs to personal inbox[cite: 2]. | **Completed** |
 | **May 3, 2026** | **12:53 AM** | Compiled technical `README.md` and optimized professional descriptions for LinkedIn deployment[cite: 2]. | **Completed** |
+| **May 15, 2026** | **11:15 PM** | Initiated C++ toolchain configuration; resolved MSYS2 mirror `404` errors and synchronized package databases. | **Completed** |
+| **May 15, 2026** | **11:38 PM** | Successfully compiled `test1.cpp` using `g++` and executed binary; verified **"Hello, Engineering 2026!"** output. | **Completed** |
 
 ---
 
