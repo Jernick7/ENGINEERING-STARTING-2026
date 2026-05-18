@@ -26,10 +26,11 @@
 | **May 3, 2026** | **12:53 AM** | Compiled technical `README.md` and optimized professional descriptions for LinkedIn deployment[cite: 2]. | **Completed** |
 | **May 15, 2026** | **11:15 PM** | Initiated C++ toolchain configuration; resolved MSYS2 mirror `404` errors and synchronized package databases. | **Completed** |
 | **May 15, 2026** | **11:38 PM** | Successfully compiled `test1.cpp` using `g++` and executed binary; verified **"Hello, Engineering 2026!"** output. | **Completed** |
+| **May 18, 2026** | **04:30 PM** | Constructed a discrete analog telephone tone-generation circuit on a breadboard. Utilized an NPN transistor-based oscillator configuration grounded with specific resistors, RC timing capacitors, and a diode network to stabilize frequency oscillation and output an audible square/sine wave frequency simulation mimicking classic telecommunication signaling hardware. | **Completed** |
+| **May 19, 2026** | **12:00 AM** | Explored agentic workflow mechanics, distinguishing between model Fine-Tuning (weight modification) and context Grounding via RAG utilizing Gemini's 2-million token window. Successfully mapped the new Gemini Spark Agent Workspace UI framework to break down automated tasks into discrete Roles, Steps, Constraints, and Acceptance Checks. | **Completed** |
+| **May 19, 2026** | **12:32 AM** | Enrolled in the Google I/O 2026 program and successfully claimed an official Google Developer Profile badge, establishing an active tracking portal for upcoming agentic AI and deep-tech ecosystem keynotes. | **Completed** |
 
 ---
 
-**Summary of Engineering Objectives:**
-Successfully transitioned the portfolio from a static layout to an active AI-driven Digital Proxy[cite: 1, 2]. Resolved all critical handshake errors, established a limitless API ceiling, and secured a live backend communication channel[cite: 2].
 
 **System Status:** All units are currently **Nominal**.
